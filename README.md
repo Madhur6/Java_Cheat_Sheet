@@ -1,4 +1,4 @@
-# **Java (Madhur's Cheat Sheet)**
+# **Java (Cheat Sheet)**
 
 ## NOTE: Please don't read cheat-sheet from preview(basic.md), Rather read through the code(raw basic.md).
 
