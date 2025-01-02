@@ -20,3 +20,22 @@ to advanced concepts like:
 This guide is a quick reference to all important Java concepts, perfect for students
 
 
+---
+
+## 📞 Contact
+
+If you have any questions, feel free to reach out:
+
+- **Madhur Pandey**: madhurp090@gmail.com
+- **GitHub**: [Madhur](https://github.com/Madhur6)
+
+---
+
+## 🎉 Acknowledgments
+
+- Thanks to the open-source community for providing inspiration and resources!
+- Special thanks to [Java Documentation](https://docs.oracle.com/javase/8/docs/) for invaluable help in development.
+
+---
+
+Happy Coding! 🎉
