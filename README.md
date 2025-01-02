@@ -1,6 +1,6 @@
 # **Java (Madhur's Cheat Sheet)**
 
-## NOTE: PLEASE DON'T READ FROM PREVIEW, RATHER READ THROUGH code(Raw .md file).
+## NOTE: Please don't read cheat-sheet from preview(basic.md), Rather read through the code(raw basic.md).
 
 A comprehensive, beginner-friendly guide to Java concepts and features.  
 This cheat sheet covers everything from:
