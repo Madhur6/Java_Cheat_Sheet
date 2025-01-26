@@ -1,8 +1,11 @@
 # Java (Madhur's Cheat Sheet)
 
-src(.java) ----> byteCode(.class) ----> compiles(machine-code) 
-           javac                   jvm
+
+src(.java) -------> byteCode(.class) ------------------jvm interprets the byte-code(.class)---------------------->(machine-code) 
+           javac                                       & JIT(just-in-time compiles the interpreted bytye-code to --> )
+                          
                           (Platform-Independence) [Any machine that has 'jvm' can execute the .class file]
+
 
 
 ## JShell: Assigns variable name if not provided by user.
@@ -37,10 +40,10 @@ src(.java) ----> byteCode(.class) ----> compiles(machine-code)
 
 
 ### **Wrapper-Classes**
-- Higher memory-usage than primitive-types, [Stores meta-data & behaviours]...
+- Higher memory-usage than primitive-types, [Stores meta-data & behaviours(methods)]...
 - Immutable.
 - Used to represent 'primitive-data-types' as 'Objects'.
-- Allows user to use them where an object is required, such as in generic collections like 'ArrayList'.
+- Allows user to use them where an object is required, such as in 'generic collections' like 'ArrayList'.
 - Allows for 'null-representation'.
 
 - Ex. Byte, Short, Integer, Long, Double, Float, Character, Boolean etc...
